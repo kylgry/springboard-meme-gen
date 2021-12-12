@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica;
+  background-color: black;
+  color: white;
+  width:550px;
+  margin: auto;
+}
+
+h1 {
+  text-align: left;
+  padding: 20px 0px 20px 0px;
+  margin: 5px;
+}
+
+#controls {
+  margin: 5px; 
+}
+
+#controls div {
+  color: white;
+  padding: 5px 0px 5px 0px;
+  font-size: 14px;
+}
+
+#game {
+  color: white;
+}
+
+
+
+#game div {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  display: inline-block;
+  transition: 1s;
+  background-color: lightgrey;
+  border-radius: 20px;
+  padding: 0px;
+}
